@@ -1,0 +1,4 @@
+com/example/hw1/BuildConfig.java
+ com.example.hw1.BuildConfig
+com/example/hw1/MainActivity.java
+ com.example.hw1.MainActivity
